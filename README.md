@@ -16,3 +16,5 @@ I will be further optimising this project and adding some more back-end function
 > 4. [lib](https://github.com/Atul240202/chemystery/tree/main/lib): This file consist all the javascript libraries used for designing 3d periodic table using threejs library.
 > > 4.1 [3D Periodic table](https://mystery-in-chemistry.web.app/periodic.html)
 > 5. [pages](https://github.com/Atul240202/chemystery/tree/main/pages): It consist all the sub-pages of Chemystery.
+
+#Check out the detailed Project Explanation video [here](https://drive.google.com/drive/folders/12tp0-_eVd_VMlyCFkd-DG0bhsFT89hM1?usp=sharing)
